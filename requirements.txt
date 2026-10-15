@@ -1,1 +1,6 @@
-# Project dependencies (add as needed)
+numpy
+torch
+schedulefree
+h5py
+scikit-learn
+matplotlib
